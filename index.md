@@ -12,4 +12,5 @@ Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regress
 ## Recommender Systems
 
 BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R Kernel, Jupyter_ | [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) | [Overview Notebook](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)
-Jester Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [Demo](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
+Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [Demo](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
+Jester Joke Recommender System - Singular Value Decomposition | _R_ | [Demo](https://wwells.github.io/CUNY_DATA_643/Project3/WWells_P3.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project3/WWells_P3.Rmd)
