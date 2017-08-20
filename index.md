@@ -4,7 +4,8 @@ SomeText introducing goals
 
 ## NLP
 
-* Wiki Webscraping and Document Similarity using TFIDF | _R_ | [demo](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd)
+Wiki Webscraping and Document Similarity using TFIDF | _R_ | [demo](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd)
+Wiki Webscraping and Document Similarity using TFIDF | _R_ | [demo](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd)
 
 
 ## Classifiers
