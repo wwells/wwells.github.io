@@ -9,6 +9,9 @@ Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regress
 
 ## Classifiers
 
+MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/FinalProject_MNIST) | [Notebook](https://github.com/wwells/CUNY_DATA_602/blob/master/FinalProject_MNIST/MNIST_Classifier_ww602_FP.ipynb)
+
+
 ## Recommender Systems
 
 BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R Kernel, Jupyter_ | [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) | [Overview Notebook](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)
