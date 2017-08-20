@@ -6,6 +6,7 @@ SomeText introducing goals
 
 Wiki Webscraping and Document Similarity using TFIDF | _R_ | [Demo](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd)
 Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regression, Maximum Entropy  | _R_ | [Demo](https://wwells.github.io/CUNY_DATA_607/Week10/DocClassification_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/DocClassification_Week10.Rmd)
+Most Important Data Science Skills:  WebScraping, N-Gram, Supervised and Unsupervised Classification, Frequency  | _R, SQL_ | [Full Repo](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project) | [Overview Deck](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project/blob/master/Project3_20161023.pptx) | ![](NLP_Super.png)
 
 
 ## Classifiers
