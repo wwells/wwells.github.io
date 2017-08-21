@@ -11,10 +11,8 @@ Currently seeking opportunities to leverage unique past and hard-won data scienc
 
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p>
 
-BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R, Jupyter_ | [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) | [Overview Notebook](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)
+BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R, Jupyter_ | [Overview Notebook](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)| [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) 
 Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
-Jester Joke Recommender System - Singular Value Decomposition | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_643/Project3/WWells_P3.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project3/WWells_P3.Rmd)
-
 
 ### Natural Language Processing (NLP)
 
@@ -35,7 +33,7 @@ Time Series Sentiment Analysis - Twitter: #Hairspray Live | _R, SQL_ | [RPubs](h
 
 <p style="text-align:center;"><img src="/assets/images/MNIST.png" width="300"></p>
 
-MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/FinalProject_MNIST) | [Notebook](https://github.com/wwells/CUNY_DATA_602/blob/master/FinalProject_MNIST/MNIST_Classifier_ww602_FP.ipynb)
+MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [Notebook](https://github.com/wwells/CUNY_DATA_602/blob/master/FinalProject_MNIST/MNIST_Classifier_ww602_FP.ipynb) | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/FinalProject_MNIST) |
 Thresholding, Counting Objects, Finding Centers, Clustering | _Python_ | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/L08) | [Source](https://github.com/wwells/CUNY_DATA_602/blob/master/L08/ww_hw8.py)
 The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Full Repo](https://github.com/occ-data/matsu-project) | [Publication](https://link.springer.com/article/10.1007%2Fs41060-017-0052-3)
 
@@ -52,23 +50,23 @@ Bias Variance Tradeoff - Polynomial Model Fit for GLM | _R_ | [HTML](https://wwe
 
 2016 Presidential Campaign Expenditure Analysis | _R_ | [RPubs](http://rpubs.com/waltw/232920) | [Source](https://github.com/wwells/CUNY_DATA_606/blob/master/Project/Wells_DATA606_Project.Rmd)
 Tidy Data - Census Data, Student Alcohol Consumption, Lending Club | _R_ | [RPubs](http://rpubs.com/waltw/215506) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/Project2) 
+Predictive Model Markup Language (PMML) - New Release Validation Suite | _Python_ | [Full Repositiory](https://sourceforge.net/p/pmml/code/ci/master/tree/bin/) | [About](http://dmg.org/pmml/management.html)
 
-### Simulation | Commons Algorithms
+### Simulation | Common Algorithms
 
 <p style="text-align:center;"><img src="/assets/images/PageRank.png" width="300"></p>
 
 Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
-Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/tree/master/L11) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
+Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
 Modeling VM Flavors v Capacity for OSDC Griffin | _R, Shiny_ | [Application](https://occ-data.shinyapps.io/Griffin-VM-Flavors/) | [Source](https://github.com/occ-data/Griffin-VM-Flavor-Study) 
 
 ### Cloud / Commons Metering & Resource Allocation Dashboards
 
 <p style="text-align:center;"><img src="/assets/images/Allocation.png" width="300"></p>
 
-AWS Monthly Metering Scripts | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
+AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
 OSDC OpenStack & Ceph Monthly Metering Scripts | _R, Salesforce_ | [Private Repository](https://github.com/uc-cdis/cdis-wiki/tree/master/osdc_meteringreports) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
-
 
 #  Other
 
@@ -86,5 +84,9 @@ Created or regularly contribute to:
 
 * [BloodPAC Data Group Wiki](https://www.synapse.org/#!Synapse:syn8011461/wiki/411892)
 * [Open Science Data Cloud Wiki](https://www.opensciencedatacloud.org/support)
+
+### RPresentation
+
+* [Singular Value Decomposition - Dimensional Retension](https://wwells.github.io/CUNY_DATA_643/Discussions/SVD_DimensionalityReduction.html)
 
 
