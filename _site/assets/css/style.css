@@ -1,13 +1,4 @@
-.flexcontainer {
-  display: flex;
-  align-items: center;
-}
-@media (max-width: 320px) {
-  .flexcontainer {
-    display: block;
-    margin: 40px;
-  }
-}
+
 
 .highlight table td { padding: 5px; }
 
@@ -231,7 +222,7 @@ Full-Width Styles
 
 #project_title { margin: 5; color: #fff; font-size: 30px; font-weight: 700; text-shadow: #111 0px 0px 10px; }
 
-#project_tagline { color: #fff; font-size: 24px; font-weight: 300; background: none; text-shadow: #111 0px 0px 10px; }
+#project_tagline { color: #fff; font-size: 12px; font-weight: 300; background: none; text-shadow: #111 0px 0px 10px; }
 
 #downloads { position: absolute; width: 210px; z-index: 10; bottom: -40px; right: 0; height: 70px; background: url("../images/icon_download.png") no-repeat 0% 90%; }
 
