@@ -1,6 +1,11 @@
-# Walt Wells | Data Science
+# Background and Goals
 
-SomeText introducing goals
+Seasoned experience directing/managing operations for member driven data science non-profits including the Open Commons Consortium, BloodPAC, and the Data Mining Group, accelerating innovation and discovery through management of data commons ecosystems and standards in predictive analytics. 
+
+Currently seeking opportunities to leverage unique past and hard-won data science acumen to further pursue a career solving challenging data science problems.
+
+
+# Sample Projects
 
 ## NLP
 
