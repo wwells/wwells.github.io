@@ -1,10 +1,3 @@
-# Background and Goals
-
-Seasoned experience directing/managing operations for member driven data science non-profits including the [Open Commons Consortium](http://occ-data.org), [BloodPAC](https://bloodpac.org), and the [Data Mining Group](http://dmg.org), accelerating innovation and discovery through management of data commons ecosystems and standards in predictive analytics. 
-
-Currently seeking opportunities to leverage unique past and hard-won data science acumen to further pursue a career solving challenging data science problems.
-
-
 # Sample Projects
 
 ### Recommender Systems
