@@ -51,6 +51,7 @@ Predictive Model Markup Language (PMML) - New Release Validation Suite | _Python
 
 Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
 Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
+Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
 Modeling VM Flavors v Capacity for OSDC Griffin | _R, Shiny_ | [Application](https://occ-data.shinyapps.io/Griffin-VM-Flavors/) | [Source](https://github.com/occ-data/Griffin-VM-Flavor-Study) 
 
 ### Cloud / Commons Metering & Resource Allocation Dashboards
