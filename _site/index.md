@@ -1,4 +1,3 @@
-# Sample Projects
 
 ### Recommender Systems
 
@@ -15,13 +14,6 @@ Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regress
 Wiki Webscraping and Document Similarity using TFIDF | _R_ |[HTML](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd) 
 Most Important Data Science Skills:  WebScraping, N-Gram, Supervised and Unsupervised Classification, Frequency  | _R, SQL_ | [Full Repo](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project) | [Overview Deck](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project/blob/master/Project3_20161023.pptx) 
 
-### Data Acquisition | Management
-
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_607/master/Project4/flightsNeo4j2.png" width="300"></p>
-
-SQL to NoSQL Migration:  Graph Model with Neo4j | _MySQL, R, Neo4J_ | [RPubs](http://rpubs.com/waltw/226525) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/Project4) 
-Time Series Sentiment Analysis - Twitter: #Hairspray Live | _R, SQL_ | [RPubs](http://rpubs.com/waltw/234983) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/ProjectFinal) 
-
 ### Image Analysis
 
 <p style="text-align:center;"><img src="/assets/images/MNIST.png" width="300"></p>
@@ -37,6 +29,31 @@ The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data comm
 Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Kaggle Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repository](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
 Bias Variance Tradeoff - Polynomial Model Fit for GLM | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week12/WWells_Assign12.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week12/WWells_Assign12.Rmd) 
 
+### Simulation | Common Algorithms
+
+<p style="text-align:center;"><img src="/assets/images/PageRank.png" width="300"></p>
+
+Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
+Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
+Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
+Modeling VM Flavors v Capacity for OSDC Griffin | _R, Shiny_ | [ShinyApp](https://occ-data.shinyapps.io/Griffin-VM-Flavors/) | [Source](https://github.com/occ-data/Griffin-VM-Flavor-Study) 
+
+### Visualization and Dashboards
+
+<p style="text-align:center;"><img src="/assets/images/Allocation.png" width="300"></p>
+
+Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
+AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
+OSDC OpenStack & Ceph Monthly Metering Scripts | _R, Salesforce_ | [Private Repository](https://github.com/uc-cdis/cdis-wiki/tree/master/osdc_meteringreports) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
+Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
+
+### Data Acquisition | Management
+
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_607/master/Project4/flightsNeo4j2.png" width="300"></p>
+
+SQL to NoSQL Migration:  Graph Model with Neo4j | _MySQL, R, Neo4J_ | [RPubs](http://rpubs.com/waltw/226525) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/Project4) 
+Time Series Sentiment Analysis - Twitter: #Hairspray Live | _R, SQL_ | [RPubs](http://rpubs.com/waltw/234983) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/ProjectFinal) 
+
 ### Data Prep
 
 <p style="text-align:center;"><img src="/assets/images/Campaign.png" width="300"></p>
@@ -45,22 +62,7 @@ Bias Variance Tradeoff - Polynomial Model Fit for GLM | _R_ | [HTML](https://wwe
 Tidy Data - Census Data, Student Alcohol Consumption, Lending Club | _R_ | [RPubs](http://rpubs.com/waltw/215506) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/Project2) 
 Predictive Model Markup Language (PMML) - New Release Validation Suite | _Python_ | [Full Repositiory](https://sourceforge.net/p/pmml/code/ci/master/tree/bin/) | [About](http://dmg.org/pmml/management.html)
 
-### Simulation | Common Algorithms
 
-<p style="text-align:center;"><img src="/assets/images/PageRank.png" width="300"></p>
-
-Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
-Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
-Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
-Modeling VM Flavors v Capacity for OSDC Griffin | _R, Shiny_ | [Application](https://occ-data.shinyapps.io/Griffin-VM-Flavors/) | [Source](https://github.com/occ-data/Griffin-VM-Flavor-Study) 
-
-### Cloud / Commons Metering & Resource Allocation Dashboards
-
-<p style="text-align:center;"><img src="/assets/images/Allocation.png" width="300"></p>
-
-AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
-OSDC OpenStack & Ceph Monthly Metering Scripts | _R, Salesforce_ | [Private Repository](https://github.com/uc-cdis/cdis-wiki/tree/master/osdc_meteringreports) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
-Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
 #  Other
 
