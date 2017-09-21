@@ -3,7 +3,7 @@
 <p style="text-align:center;"><img src="/assets/images/GLMNET.png" width="300"></p>
 
 Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Kaggle Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repository](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
-Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
+Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
 
 
 ### Visualization and Dashboards
@@ -11,7 +11,7 @@ Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Compa
 <p style="text-align:center;"><img src="/assets/images/CDC.gif" width="300"></p>
 
 Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
-AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
+AWS Monthly Metering Scripts | _R_ | [R Notebook](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
 Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
 ### Image Analysis
@@ -32,17 +32,17 @@ BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsu
 
 <p style="text-align:center;"><img src="/assets/images/ConfModel.png" width="300"></p>
 
-Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regression, Maximum Entropy  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_607/Week10/DocClassification_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/DocClassification_Week10.Rmd) 
-Wiki Webscraping and Document Similarity using TFIDF | _R_ |[HTML](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd) 
+Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regression, Maximum Entropy  | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_607/Week10/DocClassification_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/DocClassification_Week10.Rmd) 
+Wiki Webscraping and Document Similarity using TFIDF | _R_ |[R Notebook](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd) 
 Most Important Data Science Skills:  WebScraping, N-Gram, Supervised and Unsupervised Classification, Frequency  | _R, SQL_ | [Full Repo](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project) | [Overview Deck](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project/blob/master/Project3_20161023.pptx) 
 
 ### Simulation | Common Algorithms
 
 <p style="text-align:center;"><img src="/assets/images/PageRank.png" width="300"></p>
 
-Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
+Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
 Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
-Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
+Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
 
 ### Data Acquisition | Management
 
