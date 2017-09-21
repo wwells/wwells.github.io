@@ -3,7 +3,8 @@
 <p style="text-align:center;"><img src="/assets/images/GLMNET.png" width="300"></p>
 
 Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Kaggle Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repository](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
-Bias Variance Tradeoff - Polynomial Model Fit for GLM | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week12/WWells_Assign12.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week12/WWells_Assign12.Rmd) 
+Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
+
 
 ### Visualization and Dashboards
 
@@ -25,7 +26,7 @@ The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data comm
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p>
 
 BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R, Jupyter_ | [Overview Notebook](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)| [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) 
-Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
+
 
 ### Natural Language Processing (NLP)
 
@@ -42,7 +43,6 @@ Most Important Data Science Skills:  WebScraping, N-Gram, Supervised and Unsuper
 Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
 Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
 Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
-Modeling VM Flavors v Capacity for OSDC Griffin | _R, Shiny_ | [ShinyApp](https://occ-data.shinyapps.io/Griffin-VM-Flavors/) | [Source](https://github.com/occ-data/Griffin-VM-Flavor-Study) 
 
 ### Data Acquisition | Management
 
