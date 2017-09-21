@@ -13,6 +13,13 @@ Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [Shin
 AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
 Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
+### Image Analysis
+
+<p style="text-align:center;"><img src="/assets/images/MNIST.png" width="300"></p>
+
+MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [Notebook](https://github.com/wwells/CUNY_DATA_602/blob/master/FinalProject_MNIST/MNIST_Classifier_ww602_FP.ipynb) | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/FinalProject_MNIST) |
+The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Full Repo](https://github.com/occ-data/matsu-project) | [Publication](https://link.springer.com/article/10.1007%2Fs41060-017-0052-3)
+
 ### Recommender Systems
 
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p>
@@ -27,14 +34,6 @@ Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Compa
 Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regression, Maximum Entropy  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_607/Week10/DocClassification_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/DocClassification_Week10.Rmd) 
 Wiki Webscraping and Document Similarity using TFIDF | _R_ |[HTML](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd) 
 Most Important Data Science Skills:  WebScraping, N-Gram, Supervised and Unsupervised Classification, Frequency  | _R, SQL_ | [Full Repo](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project) | [Overview Deck](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project/blob/master/Project3_20161023.pptx) 
-
-### Image Analysis
-
-<p style="text-align:center;"><img src="/assets/images/MNIST.png" width="300"></p>
-
-MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [Notebook](https://github.com/wwells/CUNY_DATA_602/blob/master/FinalProject_MNIST/MNIST_Classifier_ww602_FP.ipynb) | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/FinalProject_MNIST) |
-Thresholding, Counting Objects, Finding Centers, Clustering | _Python_ | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/L08) | [Source](https://github.com/wwells/CUNY_DATA_602/blob/master/L08/ww_hw8.py)
-The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Full Repo](https://github.com/occ-data/matsu-project) | [Publication](https://link.springer.com/article/10.1007%2Fs41060-017-0052-3)
 
 ### Simulation | Common Algorithms
 
