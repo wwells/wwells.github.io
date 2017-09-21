@@ -11,7 +11,6 @@ Bias Variance Tradeoff - Polynomial Model Fit for GLM | _R_ | [HTML](https://wwe
 
 Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
 AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
-OSDC OpenStack & Ceph Monthly Metering Scripts | _R, Salesforce_ | [Private Repository](https://github.com/uc-cdis/cdis-wiki/tree/master/osdc_meteringreports) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
 ### Recommender Systems
