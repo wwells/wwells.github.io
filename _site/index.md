@@ -1,3 +1,18 @@
+### Model Evaluation
+
+<p style="text-align:center;"><img src="/assets/images/GLMNET.png" width="300"></p>
+
+Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Kaggle Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repository](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
+Bias Variance Tradeoff - Polynomial Model Fit for GLM | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week12/WWells_Assign12.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week12/WWells_Assign12.Rmd) 
+
+### Visualization and Dashboards
+
+<p style="text-align:center;"><img src="/assets/images/CDC.gif" width="300"></p>
+
+Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
+AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
+OSDC OpenStack & Ceph Monthly Metering Scripts | _R, Salesforce_ | [Private Repository](https://github.com/uc-cdis/cdis-wiki/tree/master/osdc_meteringreports) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
+Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
 ### Recommender Systems
 
@@ -22,13 +37,6 @@ MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [N
 Thresholding, Counting Objects, Finding Centers, Clustering | _Python_ | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/L08) | [Source](https://github.com/wwells/CUNY_DATA_602/blob/master/L08/ww_hw8.py)
 The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Full Repo](https://github.com/occ-data/matsu-project) | [Publication](https://link.springer.com/article/10.1007%2Fs41060-017-0052-3)
 
-### Model Evaluation
-
-<p style="text-align:center;"><img src="/assets/images/GLMNET.png" width="300"></p>
-
-Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Kaggle Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repository](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
-Bias Variance Tradeoff - Polynomial Model Fit for GLM | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_605/Week12/WWells_Assign12.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week12/WWells_Assign12.Rmd) 
-
 ### Simulation | Common Algorithms
 
 <p style="text-align:center;"><img src="/assets/images/PageRank.png" width="300"></p>
@@ -37,15 +45,6 @@ Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [H
 Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
 Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [HTML](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
 Modeling VM Flavors v Capacity for OSDC Griffin | _R, Shiny_ | [ShinyApp](https://occ-data.shinyapps.io/Griffin-VM-Flavors/) | [Source](https://github.com/occ-data/Griffin-VM-Flavor-Study) 
-
-### Visualization and Dashboards
-
-<p style="text-align:center;"><img src="/assets/images/Allocation.png" width="300"></p>
-
-Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
-AWS Monthly Metering Scripts | _R_ | [HTML](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
-OSDC OpenStack & Ceph Monthly Metering Scripts | _R, Salesforce_ | [Private Repository](https://github.com/uc-cdis/cdis-wiki/tree/master/osdc_meteringreports) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
-Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
 ### Data Acquisition | Management
 
