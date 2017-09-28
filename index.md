@@ -63,8 +63,6 @@ Predictive Model Markup Language (PMML) - New Release Validation Suite | _Python
 
 #  Other
 
-Created or regularly contribute to: 
-
 ### Websites
 
 * [Open Science Data Cloud](https://www.opensciencedatacloud.org/) - Python, JS, html, Sphinx
