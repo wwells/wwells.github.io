@@ -41,6 +41,7 @@ Most Important Data Science Skills:  WebScraping, N-Gram, Supervised and Unsuper
 <p style="text-align:center;"><img src="/assets/images/PageRank.png" width="300"></p>
 
 Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Source](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
+Fitting Distributions, Random Variables, Goodness of Fit | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_604/Section8/HW8a.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section8/HW8a.Rmd) 
 Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python, Jupyter_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
 Simple Revenue Forecasting Sampling from Random Variable  | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_604/Section3/Discussion3.html) | [Source](https://github.com/wwells/CUNY_DATA_604/blob/master/Section3/Discussion3.Rmd) 
 
