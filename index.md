@@ -11,7 +11,7 @@ Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Compa
 <p style="text-align:center;"><img src="/assets/images/CDC.gif" width="300"></p>
 
 Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
-AWS Monthly Metering Scripts | _R_ | [R Notebook](https://occ-data.github.io/BrainCommonsReports/MeteringTEST.html) | [Source](https://github.com/occ-data/BrainCommonsReports/blob/master/MeteringTEST.Rmd) 
+Data Commons - AWS Explorer | _R, Shiny, Docker_ | [Container](https://quay.io/repository/occ_data/grads) | [Repository](https://github.com/occ-data/metering-shinyapp) 
 Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
 ### Image Analysis
