@@ -1,19 +1,3 @@
-### Model Evaluation
-
-<p style="text-align:center;"><img src="/assets/images/GLMNET.png" width="300"></p>
-
-Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Kaggle Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repository](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
-Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
-
-
-### Visualization and Dashboards
-
-<p style="text-align:center;"><img src="/assets/images/CDC.gif" width="300"></p>
-
-Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
-Data Commons - AWS Explorer | _R, Shiny, Docker_ | [Container](https://quay.io/repository/occ_data/grads) | [Repository](https://github.com/occ-data/metering-shinyapp) 
-Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
-
 ### Image Analysis
 
 <p style="text-align:center;"><img src="/assets/images/MNIST.png" width="300"></p>
@@ -21,12 +5,12 @@ Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [
 MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [Notebook](https://github.com/wwells/CUNY_DATA_602/blob/master/FinalProject_MNIST/MNIST_Classifier_ww602_FP.ipynb) | [Full Repo](https://github.com/wwells/CUNY_DATA_602/tree/master/FinalProject_MNIST) |
 The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Full Repo](https://github.com/occ-data/matsu-project) | [Publication](https://link.springer.com/article/10.1007%2Fs41060-017-0052-3)
 
-### Recommender Systems
+### Model Evaluation
 
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p>
+<p style="text-align:center;"><img src="/assets/images/GLMNET.png" width="300"></p>
 
-BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R, Jupyter_ | [Overview Notebook](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)| [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) 
-
+Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repo](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
+Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Source](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
 
 ### Natural Language Processing (NLP)
 
@@ -35,6 +19,20 @@ BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsu
 Spam/Ham Filter and model compare SVM, Decision Tree, Generalized Linear Regression, Maximum Entropy  | _R_ | [R Notebook](https://wwells.github.io/CUNY_DATA_607/Week10/DocClassification_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/DocClassification_Week10.Rmd) 
 Wiki Webscraping and Document Similarity using TFIDF | _R_ |[R Notebook](https://wwells.github.io/CUNY_DATA_607/Week10/JazzTFIDF_Present_Week10.html) | [Source](https://github.com/wwells/CUNY_DATA_607/blob/master/Week10/JazzTFIDF_Present_Week10.Rmd) 
 Most Important Data Science Skills:  WebScraping, N-Gram, Supervised and Unsupervised Classification, Frequency  | _R, SQL_ | [Full Repo](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project) | [Overview Deck](https://github.com/RaphaelNash/CUNY-DATA-607-2-Group-Project/blob/master/Project3_20161023.pptx) 
+
+### Recommender Systems
+
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p>
+
+BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R, Jupyter_ | [Overview Notebook](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)| [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) 
+
+### Visualization and Dashboards
+
+<p style="text-align:center;"><img src="/assets/images/CDC.gif" width="300"></p>
+
+Exploring CDC Data with GoogleVis and ShinyR | _R, Shiny, GoogleVis, JS_ | [ShinyApp](https://wwells.shinyapps.io/cdc-wonder-googlevis/) | [Source](https://github.com/wwells/CUNY_DATA_608/tree/master/section3) 
+Data Commons - AWS Explorer | _R, Shiny, Docker_ | [Container](https://quay.io/repository/occ_data/grads) | [Repository](https://github.com/occ-data/metering-shinyapp) 
+Quarterly Public/Private Cloud Resource Allocation | _R, Salesforce, Python_ | [Private Repository](https://github.com/LabAdvComp/quarterly_resource_allocation_model) | [About](https://www.opensciencedatacloud.org/support/intro.html#osdc-resource-allocations)
 
 ### Simulation | Common Algorithms
 
