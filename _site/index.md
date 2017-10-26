@@ -27,8 +27,6 @@ Fitting Distributions, Random Variables, Goodness of Fit | _R_ | [R Notebook](ht
 
 # Data Storytelling
 
-### Visualization and Dashboards
-
 <p style="float:left;"><img src="/assets/images/twitter.png" width="300"></p>
 <p style="float:right;"><img src="/assets/images/ConfModel.png" width="300"></p>
 
