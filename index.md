@@ -52,6 +52,3 @@ MNIST - Building a Basic Image Classifier from Scratch  | _Python, Jupyter_ | [N
 * [Open Science Data Cloud Wiki](https://www.opensciencedatacloud.org/support), Django
 * [Talks: SVD - Dimensional Retension](https://wwells.github.io/CUNY_DATA_643/Discussions/SVD_DimensionalityReduction.html), RPres
 
-# About
-
-Walt has been has working to accelerate the pace of innovation and discovery using data science since 2012.  Walt is a data science generalist with a broad range of life experiences taking him everywhere from the Viper Room stage to the White House.    In addition to his data science acumen, Walt is a former professional musician and has over 10 years of nonprofit and research experience helping organizations make better decisions about their resources. His interests include lifelong learning, utilizing data science for social good, and prestige TV.   Walt primarily works in Python and R.
