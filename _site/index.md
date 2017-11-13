@@ -8,7 +8,7 @@ Walt has been has working to accelerate the pace of innovation and discovery usi
 
 BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R_ | [Notebook 1 of 5](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)| [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) 
 The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Dashboard](https://matsu.opensciencedatacloud.org/) | [Full Repo](https://github.com/occ-data/matsu-project) 
-Data Commons - AWS Explorer | _R, Shiny, Docker_ | [Container](https://quay.io/repository/occ_data/grads) | [Full Repo](https://github.com/occ-data/metering-shinyapp) 
+Data Commons - AWS Explorer | _R, Shiny, Docker_ | [Container](https://quay.io/repository/occ_data/costapp) | [Full Repo](https://github.com/occ-data/metering-shinyapp) 
 Feature Selection for Regression Modeling - Home Sale Data, Kaggle | _R_ | [Notebook](https://www.kaggle.com/ohmets/feature-selection-for-regression) | [Full Repo](https://github.com/wwells/CUNY_DATA_605/tree/master/FinalExam) 
 Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Comparison | _R_ | [Notebook](https://wwells.github.io/CUNY_DATA_643/Project2/WWells_P2.html) | [Full Repo](https://github.com/wwells/CUNY_DATA_643/blob/master/Project2/WWells_P2.Rmd)
 
