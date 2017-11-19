@@ -4,8 +4,9 @@ Walt has been has working to accelerate the pace of innovation and discovery usi
 
 # Data Applications and Insights
 
-<p style="float:left;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p><p style="float:right;"><img src="/assets/images/matsu.png" width="300"></p>
+<p style="float:left;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p><p style="float:right;"><img src="/assets/images/gunviolence.png" width="300"></p>
 
+US Gun Violence 2014-2017 - Data Explorer | _R, Shiny, Docker_ | [Live App](http://gunviolence.waltwells.com/) | [Full Repo](https://github.com/wwells/shiny-apps/tree/master/gunviolence) 
 BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R_ | [Notebook 1 of 5](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)| [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) 
 The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Dashboard](https://matsu.opensciencedatacloud.org/) | [Full Repo](https://github.com/occ-data/matsu-project) 
 Data Commons - AWS Explorer | _R, Shiny, Docker_ | [Container](https://quay.io/repository/occ_data/costapp) | [Full Repo](https://github.com/occ-data/metering-shinyapp) 
