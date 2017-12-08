@@ -18,13 +18,14 @@ Jester Joke Recommender System - IBCF, UBCF, K-fold Cross Validation Model Compa
 <p style="float:left;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_607/master/Project4/flightsNeo4j2.png" width="300"></p>
 <p style="float:right;"><img src="/assets/images/PageRank.png" width="300"></p>
 
+Data Simulation Suite | _R_ | [Notebook](https://wwells.github.io/CUNY_DATA_604/FinalProject/SimulatingData.html) | [Full Repo](https://github.com/occ-data/data-simulator)
 2016 Presidential Campaign Expenditure Analysis | _R_ | [Notebook](http://rpubs.com/waltw/232920) | [Full Repo](https://github.com/wwells/CUNY_DATA_606/blob/master/Project/Wells_DATA606_Project.Rmd)
-Tidy Data - Census Data, Student Alcohol Consumption, Lending Club | _R_ | [Notebook](http://rpubs.com/waltw/215506) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/Project2) 
+Simple Revenue Forecasting, Random Variates, Inverse CDF  | _R_ | [Notebook](https://wwells.github.io/CUNY_DATA_604/Section8/HW8b.html) | [Full Repo](https://github.com/wwells/CUNY_DATA_604/blob/master/Section8/HW8b.Rmd) 
+Fitting Distributions, Random Variables, Goodness of Fit | _R_ | [Notebook](https://wwells.github.io/CUNY_DATA_604/Section8/HW8a.html) | [Full Repo](https://github.com/wwells/CUNY_DATA_604/blob/master/Section8/HW8a.Rmd)
 SQL to NoSQL Migration:  Graph Model with Neo4j | _MySQL, R, Neo4J_ | [Notebook](http://rpubs.com/waltw/226525) | [Full Repo](https://github.com/wwells/CUNY_DATA_607/tree/master/Project4) 
 Monte Carlo -  calculate VaR over a random walk, ipyParallel | _Python_ | [Single Thread](https://github.com/wwells/CUNY_DATA_602/blob/master/L11/ww_HW11.ipynb) | [ipyParallel](https://github.com/wwells/CUNY_DATA_602/blob/master/L12/ww_HW12.ipynb)
-Simple Revenue Forecasting, Random Variates, Inverse CDF  | _R_ | [Notebook](https://wwells.github.io/CUNY_DATA_604/Section8/HW8b.html) | [Full Repo](https://github.com/wwells/CUNY_DATA_604/blob/master/Section8/HW8b.Rmd) 
 Understanding PageRank - Power Iteration, Eigen Decomposition, Igraph | _R_ | [Notebook](https://wwells.github.io/CUNY_DATA_605/Week10/WWells_Assign10.html) | [Full Repo](https://github.com/wwells/CUNY_DATA_605/blob/master/Week10/WWells_Assign10.Rmd) 
-Fitting Distributions, Random Variables, Goodness of Fit | _R_ | [Notebook](https://wwells.github.io/CUNY_DATA_604/Section8/HW8a.html) | [Full Repo](https://github.com/wwells/CUNY_DATA_604/blob/master/Section8/HW8a.Rmd) 
+ 
 
 # Data Storytelling
 
@@ -44,11 +45,15 @@ Predictive Model Markup Language (PMML) - Release Validation Suite | _Python, XM
 # Data Community Building
 
 * [Open Science Data Cloud](https://www.opensciencedatacloud.org/), Python, JS, html, Sphinx
-* [Data Mining Group](http://dmg.org ), Jekyll, HTML
+* [Data Mining Group](http://dmg.org ), Jekyll, Python, HTML
 * [Open Commons Consortium](http://occ-data.org), Jekyll 
 * [BloodPAC](https://www.bloodpac.org/), SquareSpace
 * [Environmental Data Commons](http://edc.occ-data.org/), Hugo
 * [BloodPAC Data Group Wiki](https://www.synapse.org/#!Synapse:syn8011461/wiki/411892),  Sage Synapse
 * [Open Science Data Cloud Wiki](https://www.opensciencedatacloud.org/support), Django
-* [Talks: SVD - Dimensional Retension](https://wwells.github.io/CUNY_DATA_643/Discussions/SVD_DimensionalityReduction.html), RPres
+
+# Talks 
+
+* [SVD - Dimensional Retension](https://wwells.github.io/CUNY_DATA_643/Discussions/SVD_DimensionalityReduction.html), RPres
+* [Data Simulation](https://wwells.github.io/CUNY_DATA_604/FinalProject/Presentation/DataSimulation.html#/), RPres
 
