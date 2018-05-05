@@ -1,11 +1,12 @@
 # About
 
-Walt has been has working to accelerate the pace of innovation and discovery using data science since 2012.  Walt is a data science generalist with a broad range of life experiences taking him everywhere from the Viper Room stage to the White House.    In addition to his data science acumen, Walt is a former professional musician and has over 10 years of nonprofit and research experience helping organizations make better decisions about martialing their resources. His interests include lifelong learning, utilizing data science for social good, and prestige TV.   Walt primarily works in Python and R.
+Walt has been has working to accelerate the pace of innovation and discovery using data science since 2012.  Walt is a data engineer and data science generalist with a broad range of life experiences taking him everywhere from the Viper Room stage to the White House.    In addition to his data science acumen, Walt is a former professional musician and has over 10 years of nonprofit and research experience helping organizations make better decisions about martialing their resources. His interests include lifelong learning, utilizing data science for social good, and prestige TV.   Walt primarily works in Python and R.
 
 # Data Applications and Insights
 
 <p style="float:left;"><img src="https://raw.githubusercontent.com/wwells/CUNY_DATA_643/master/FinalProject/Overview.jpg" width="300"></p><p style="float:right;"><img src="/assets/images/gunviolence.png" width="300"></p>
 
+Image Classification using Deep Learning | _Keras, R, CloudML, ImageNet_ | [Paper](https://github.com/wwells/CUNY_DATA_698/blob/master/Paper/image-classification-deeplearning_FINAL.pdf) | [Full Repo](https://github.com/wwells/CUNY_DATA_698/tree/master/ImageNetCNN) 
 US Gun Violence 2014-2017 - Data Explorer | _R, Shiny, Docker_ | [Live App](https://wwells.shinyapps.io/gunviolence/) | [Full Repo](https://github.com/wwells/shiny-apps/tree/master/gunviolence) 
 BookCrossing Recommender System - "Factorization Machines":  Truncated SVD, Unsupervised Clustering using CLarA, Synergistic Recommendation | _R_ | [Notebook 1 of 5](https://github.com/wwells/CUNY_DATA_643/blob/master/FinalProject/FProject_DataPrep_Modeling_P1.ipynb)| [Full Repo](https://github.com/wwells/CUNY_DATA_643/tree/master/FinalProject) 
 The Matsu Wheel: a reanalysis framework for Earth satellite imagery in data commons  | _Python, R, Hadoop_ | [Dashboard](https://matsu.opensciencedatacloud.org/) | [Full Repo](https://github.com/occ-data/matsu-project) 
@@ -43,6 +44,13 @@ Quarterly Public/Private Cloud Resource Allocation | _R, Python, Salesforce_ | [
 Predictive Model Markup Language (PMML) - Release Validation Suite | _Python, XML_ | [About](http://dmg.org/pmml/management.html) | [Full Repo](https://sourceforge.net/p/pmml/code/ci/master/tree/bin/)
 
 
+# Talks 
+
+* [Image Classification in Deep Learning](https://github.com/wwells/CUNY_DATA_698/blob/master/Paper/Presentation_Reduced.pdf)
+* [SVD - Dimensional Retension](https://wwells.github.io/CUNY_DATA_643/Discussions/SVD_DimensionalityReduction.html)
+* [Data Simulation](https://wwells.github.io/CUNY_DATA_604/FinalProject/Presentation/DataSimulation.html#/)
+
+
 # Data Community Building
 
 * [Open Science Data Cloud](https://www.opensciencedatacloud.org/), Python, JS, html, Sphinx
@@ -53,8 +61,4 @@ Predictive Model Markup Language (PMML) - Release Validation Suite | _Python, XM
 * [BloodPAC Data Group Wiki](https://www.synapse.org/#!Synapse:syn8011461/wiki/411892),  Sage Synapse
 * [Open Science Data Cloud Wiki](https://www.opensciencedatacloud.org/support), Django
 
-# Talks 
-
-* [SVD - Dimensional Retension](https://wwells.github.io/CUNY_DATA_643/Discussions/SVD_DimensionalityReduction.html), RPres
-* [Data Simulation](https://wwells.github.io/CUNY_DATA_604/FinalProject/Presentation/DataSimulation.html#/), RPres
 
